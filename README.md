@@ -1,4 +1,5 @@
-<h1> Abdlkader Darwich <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Abdlkader Darwich</h1>
+<p align="center"><b>Full Stack Developer</b></p>
 
 <p align="center">
   <a href="http://localhost:3001/#about">
@@ -12,10 +13,15 @@
   </a>
 </p>
 
-I'm a passionate **Full-Stack Developer** building modern, scalable web applications. 
-I specialize in React, Next.js, Tailwind, Node.js, Express, plus databases like MongoDB & PostgreSQL. I'm open to collaborate on interesting projects.
+---
 
-## Skill Set :muscle:
+## 🙋‍♂️ About Me
+
+I'm a passionate **Full-Stack Developer** building modern, scalable web applications. I specialize in React, Next.js, Tailwind, Node.js, Express, plus databases like MongoDB & PostgreSQL. I'm open to collaborate on interesting projects.
+
+---
+
+## 🛠️ Skill Set
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -38,16 +44,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="Git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">|<img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
 |--|--|--|--|
-<br>
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/abdlkader-darwich-63632a426/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" title="LinkedIn"></a> | <a href="mailto:abdlkaderdarwich@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" title="Email Me"></a> | <a href="http://localhost:3001/#about"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" title="Portfolio / Local App"></a>
-|--|--|--|
 
 <br>
 
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+## 🤝 Let's Connect
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://www.linkedin.com/in/abdlkader-darwich-63632a426/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" title="LinkedIn"></a> | <a href="mailto:abdlkaderdarwich@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="
